@@ -6,7 +6,7 @@ public class TestaFuncionario {
 		
 		Funcionario programador = new Funcionario ("Daniel", 10000);
 		System.out.println("Nome: " + programador.nome);
-		System.out.println("Salário: " + programador.salario);
+		System.out.println("Salario: " + programador.salario);
 		System.out.println("Valor do imposto = " + programador.CalculaImposto());
 	}
 
